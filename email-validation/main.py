@@ -1,4 +1,5 @@
 from validate_email import validate_email
+import json
 
 def handler(event, context):
     # assign email from lambda environment variable
