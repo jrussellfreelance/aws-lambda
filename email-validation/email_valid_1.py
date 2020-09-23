@@ -36,5 +36,5 @@ if __name__ == '__main__' :
 	email = "my.ownsite@ourearth.org"
 	check(email) 
 
-	email = "ankitrai326.com"
+	email = "jesse@i_i"
 	check(email) 
